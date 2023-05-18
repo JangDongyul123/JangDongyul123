@@ -1,4 +1,4 @@
-### Hi there 👋
+### 포기란 배추 셀 때 하는 말이다. 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lillliiliii)](https://solved.ac/lillliiliii/)
 <br>
