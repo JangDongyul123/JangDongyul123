@@ -3,7 +3,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lillliiliii)](https://solved.ac/lillliiliii/)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangDongyul123&show_icons=true&theme=radical)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangDongyul123&layout=compact&theme=tokyonight)
 
 <!--
