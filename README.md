@@ -1,7 +1,7 @@
 ### 포기란 배추 셀 때 하는 말이다. 👋
   <h3>📚 Tech Stack 📚</h3>
 <p>
-  Framework
+  Back-end
    <br>
   <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
