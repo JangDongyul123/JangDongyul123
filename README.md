@@ -1,5 +1,8 @@
 ### 포기란 배추 셀 때 하는 말이다. 👋
 
+ <h3>☘️ Blog ☘️</h3>
+<a href="https://velog.io/@wordi"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<br>
   <h3>📚 Tech Stack 📚</h3>
 <p>
   Back-end
