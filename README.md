@@ -1,5 +1,9 @@
 ### 포기란 배추 셀 때 하는 말이다. 👋
 
+#### 웹, 모바일 풀스택 약 3년차 개발자 
+#### AI 공부 중
+#### 자격증: 정보처리기사, SQLD, AWS-SAA
+
  <h3>☘️ Blog ☘️</h3>
 <a href="https://velog.io/@wordi"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <br>
