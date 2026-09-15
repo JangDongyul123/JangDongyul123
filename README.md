@@ -5,7 +5,7 @@
 ### Web · Mobile Full-stack Developer, expanding into AI Engineering
 
 웹·모바일 풀스택 개발 경험을 바탕으로  
-머신러닝, LLM, AI Agent와 모델 서빙을 공부하고 있습니다.
+AI Engineering으로 영역을 확장하고 있습니다.
 
 [![Velog](https://img.shields.io/badge/Velog-AI%20Engineering%20Notes-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@wordi/series/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8)
 [![Study](https://img.shields.io/badge/GitHub-TensorFlow%20%C2%B7%20Keras%20Study-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JangDongyul123/furiosa-tensorflow-keras)
