@@ -66,7 +66,7 @@ TensorFlow/Keras 수업 필기와 실습 기록입니다. 신경망 기초부터
 
 ### [AI 엔지니어링 학습노트](https://velog.io/@wordi/series/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8)
 
-학습 과정에서 생긴 질문을 중심으로 딥러닝 개념과 실험 결과를 기록합니다.
+학습 과정에서 생긴 질문을 중심으로 딥러닝 개념과 학습 내용을 기록합니다.
 
 - [초평면·뉴런·ReLU·순전파와 역전파](https://velog.io/@wordi/%EA%B7%80-%EC%B4%88%ED%8F%89%EB%A9%B4-%EB%89%B4%EB%9F%B0-ReLU-%EC%88%9C%EC%A0%84%ED%8C%8C%EC%99%80-%EC%97%AD%EC%A0%84%ED%8C%8C)
 - [MSE·RMSE·RMSLE·R²의 관계](https://velog.io/@wordi/MSE-RMSE-RMSLE-R2%EC%9D%98-%EA%B4%80%EA%B3%84)
