@@ -19,7 +19,7 @@ AI Engineering으로 영역을 확장하고 있습니다.
 ## 🧭 About
 
 - 약 3년간 사내 업무 시스템과 웹·모바일 서비스를 개발한 풀스택 개발자입니다.
-- Java·Spring Boot 기반 서버, React 기반 웹 화면, Flutter 모바일 애플리케이션을 개발했습니다.
+- Spring·Spring Boot 기반 서버, React, JSP 기반 웹 화면, Flutter 모바일 애플리케이션을 개발했습니다.
 - 현재는 기존 개발 경험을 바탕으로 AI Engineering 영역을 공부하고 있습니다.
 
 ---
