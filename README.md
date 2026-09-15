@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 장동율입니다
+# 👋 안녕하세요
 
 ### Web · Mobile Full-stack Developer, expanding into AI Engineering
 
