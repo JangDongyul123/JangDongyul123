@@ -47,19 +47,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-| 영역 | 학습 내용 |
-|---|---|
-| Machine Learning | 데이터 전처리, 모델 학습, 평가 지표, 앙상블 |
-| Deep Learning | TensorFlow/Keras, PyTorch, 신경망 구조와 최적화 |
-| LLM | RAG, SFT/LoRA, Quantization, LLM Serving |
-| AI Agent | Tool Use, Workflow, LangGraph |
-| MLOps | 모델 배포, 실험 관리, 자동화, 모니터링 |
-| Edge AI | NPU, On-device AI, Edge–Cloud 협업 구조 |
-
----
-
 ## 📚 Featured Learning
 
 ### [Furiosa TensorFlow · Keras Study](https://github.com/JangDongyul123/furiosa-tensorflow-keras)
