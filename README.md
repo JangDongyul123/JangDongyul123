@@ -66,7 +66,7 @@ TensorFlow/Keras 수업 필기와 실습 기록입니다. 신경망 기초부터
 
 ### [AI 엔지니어링 학습노트](https://velog.io/@wordi/series/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%95%99%EC%8A%B5%EB%85%B8%ED%8A%B8)
 
-학습 과정에서 생긴 질문을 중심으로 딥러닝 개념과 학습 내용을 기록합니다.
+학습 과정에서 생긴 질문을 출발점으로, 딥러닝 개념을 이해한 방식대로 정리합니다.
 
 - [초평면·뉴런·ReLU·순전파와 역전파](https://velog.io/@wordi/%EA%B7%80-%EC%B4%88%ED%8F%89%EB%A9%B4-%EB%89%B4%EB%9F%B0-ReLU-%EC%88%9C%EC%A0%84%ED%8C%8C%EC%99%80-%EC%97%AD%EC%A0%84%ED%8C%8C)
 - [MSE·RMSE·RMSLE·R²의 관계](https://velog.io/@wordi/MSE-RMSE-RMSLE-R2%EC%9D%98-%EA%B4%80%EA%B3%84)
@@ -75,10 +75,17 @@ TensorFlow/Keras 수업 필기와 실습 기록입니다. 신경망 기초부터
 
 ---
 
-## 🛠️ Tech Stack
+## 📜 Certifications
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+| 자격증 | 취득 연도 |
+|---|---:|
+| 정보처리기사 | 2022 |
+| SQLD | 2023 |
+| AWS Certified Solutions Architect – Associate | 2026 |
+
+---
+
+## 🛠️ Tech Stack
 
 ### Web Backend
 
@@ -88,10 +95,12 @@ TensorFlow/Keras 수업 필기와 실습 기록입니다. 신경망 기초부터
 ![MyBatis](https://img.shields.io/badge/MyBatis-BD1E2D?style=flat-square)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square)
 
-### Web Frontend
+### Web Frontend · Mobile
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### AI · Data
 
@@ -109,16 +118,6 @@ TensorFlow/Keras 수업 필기와 실습 기록입니다. 신경망 기초부터
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
----
-
-## 📜 Certifications
-
-| 자격증 | 취득 연도 |
-|---|---:|
-| 정보처리기사 | 2022 |
-| SQLD | 2023 |
-| AWS Certified Solutions Architect – Associate | 2026 |
 
 ---
 
