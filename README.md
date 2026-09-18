@@ -62,8 +62,10 @@ TensorFlow/Keras 수업 필기와 실습 기록입니다. 신경망 기초부터
 
 - [초평면·뉴런·ReLU·순전파와 역전파](https://velog.io/@wordi/%EA%B7%80-%EC%B4%88%ED%8F%89%EB%A9%B4-%EB%89%B4%EB%9F%B0-ReLU-%EC%88%9C%EC%A0%84%ED%8C%8C%EC%99%80-%EC%97%AD%EC%A0%84%ED%8C%8C)
 - [MSE·RMSE·RMSLE·R²의 관계](https://velog.io/@wordi/MSE-RMSE-RMSLE-R2%EC%9D%98-%EA%B4%80%EA%B3%84)
-- [분류 모델에서 MSE와 Cross-Entropy 비교](https://velog.io/@wordi/%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8%EC%97%90%EC%84%9C-loss-%ED%95%A8%EC%88%98-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-Mean-Squared-Error-VS-Cross-Entropy)
+- [편미분과 체인룰로 Gradient를 직접 계산해보자](https://velog.io/@wordi/%ED%8E%B8%EB%AF%B8%EB%B6%84%EA%B3%BC-%EC%B2%B4%EC%9D%B8%EB%A3%B0%EB%A1%9C-Gradient%EB%A5%BC-%EC%A7%81%EC%A0%91-%EA%B3%84%EC%82%B0%ED%95%B4%EB%B3%B4%EC%9E%90)
 - [Dropout을 아주 쉽게 이해하기](https://velog.io/@wordi/Dropout%EC%9D%84-%EC%95%84%EC%A3%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%98%EA%B8%B0)
+- [분류 모델에서 MSE와 Cross-Entropy 비교](https://velog.io/@wordi/%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8%EC%97%90%EC%84%9C-loss-%ED%95%A8%EC%88%98-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-Mean-Squared-Error-VS-Cross-Entropy)
+
 
 ---
 
